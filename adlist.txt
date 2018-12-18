@@ -1256,4 +1256,32 @@ twitch.tv##.pl-overlay
 @@||nexac.com/e/getdata.xgi$xmlhttprequest,domain=twitch.tv
 @@||pagead2.googlesyndication.com/|$xmlhttprequest,domain=twitch.tv
 @@||pix.btrll.com^$image,domain=twitch.tv
+|http://3g.biquge.co/op/op.js
+|http://m.biquge.tw/js/b.js
+|http://m.qbiquge.com/images/jquery.js
+|http://wap.xxbiquge.com/js/xbiquge.js
+|http://www.biquge.co/quge/$script
+||qt.biqugezw.com
+||biquge5200.com##.adsbygoogle,[class^="gad"]
+||biqugex.com##.top-read-ad,.adsbygoogle
+||ddbiquge.com##.adsbygoogle
+||qbiquge.com##.con_ad
+||www.xbiquge.com##.con_ad,[width="960"][height="90"],.dahengfu,[src^="http://img.xa9t.com/html/click/"]
+||www.biquge.tw##.con_ad,[width="960"][height="90"],.dahengfu,[src^="http://img.xa9t.com/html/click/"]
+||biquge.com.tw##.con_ad,[width="960"][height="90"],.dahengfu,[src^="http://img.xa9t.com/html/click/"]
+|http://www.biquge.la/scripts/header.js$s@function listindex(){*function bdshare()@function xxx()@
+|http://www.biquge.so/biquge$s@<script>read?();</script>@@
+|http://www.biquge.so/biquge$s@<table border="0" style="width:770px;height:260px">@<table style="display:none">
+|http://www.biquge5.com/jquery/biquge.js$s@function read2() {*function list2() {*}@@
+|http://m.biquge.$s@<script src='http://app.toutiao.hefei126.com:*'></script>@@
+|http://m.biquge.com.tw/wap/skin/wap.js$s@//广告开始*function skin_xuanfu()@function xxxx()@
+|http://m.biquge.tw/js/common.js$s@function dp(){*}@@
+|http://m.ddbiquge.com/$s@var d = (/(UCBrowser|QQBrowser)/i.test(navigator.userAgent))@@
+|http://m.ddbiquge.com/wapbook/$s@<script type="text/javascript" src="http://www.nbjjd.com*></script>@@
+|http://m.qbiquge.com/1_$s@<script src=?http://js.wdad.cc:*></script>@@
+|http://m.qbiquge.com/l_$s@<script src=?http://js.wdad.cc:*></script>@@
+|http://rm.biquge5200.com/main.js^$s@function qijixs_dingbu()*function xcy()@function xxxx()@
+|http://wap.xxbiquge.com/js/read.js$s@function style_top(){*function tm()@function xxx()@
+|http://www.biquge.tw/js/bqg.js$s@function list1(){*function footer()@function xxx()@
+|http://www.xxbiquge.com/js/bqg.js$s@function list(){*function footer()@function xxx()@
 
